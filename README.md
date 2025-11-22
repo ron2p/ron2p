@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ron2p&show_icons=true&theme=pastel&hide_border=true&bg_color=eff1f3" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ron2p&show_icons=true&theme=dracula" height="170" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron2p&layout=compact&theme=dracula" height="170" alt="languages" />
 
 </div>
