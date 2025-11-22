@@ -8,3 +8,5 @@
 > **"보이지 않는 곳에서 묵묵히 데이터를 요리합니다 🍳"**
 
 ![Git Hub Stat](https://github-readme-stats.vercel.app/api?username=ron2p&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ron2p&layout=compact&theme=dark)
